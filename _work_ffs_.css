@@ -186,3 +186,10 @@
 	font-family: "Times New Roman", sans-serif!important;
 }
 
+#main_player .player_header span.skip-el {
+   	float: right;
+    	margin-right: 10px;
+    	color: white;
+	background-color: red;
+	font-family: Helvetica;
+}
