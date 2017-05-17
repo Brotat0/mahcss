@@ -1,0 +1,38 @@
+#chat .chat-container .chat-messages .chat-main li.vip .username .user-role-icon,
+#main_avatar_room #main-user-list-room #avatar-list LI.vip  .user-role-icon
+{
+    background-image: url(http://i.imgur.com/Jsl6Cjs.png);
+    display: inline-block;
+    color: red!important;
+}
+
+#chat .chat-container .chat-messages .chat-main li.mod .username .user-role-icon,
+#main_avatar_room #main-user-list-room #avatar-list LI.mod  .user-role-icon
+{
+    background-image: url(http://i.imgur.com/XTteBoQ.png);
+    display: inline-block;
+    color: green!important;
+}
+
+#chat .chat-container .chat-messages .chat-main li.manager .username .user-role-icon,
+#main_avatar_room #main-user-list-room #avatar-list LI.manager  .user-role-icon
+{
+    background-image: url(http://i.imgur.com/NruT8cD.png);
+    display: inline-block;
+    color: blue!important;
+}
+
+#chat .chat-container .chat-messages .chat-main li.co-owner .username .user-role-icon,
+#main_avatar_room #main-user-list-room #avatar-list LI.co-owner  .user-role-icon
+{
+    background-image: url(http://i.imgur.com/iVEOGkk.png);
+    display: inline-block;
+    color: pink!important;
+}
+#chat .chat-container .chat-messages .chat-main li.creator .username .user-role-icon,
+#main_avatar_room #main-user-list-room #avatar-list LI.crator  .user-role-icon
+{
+    background-image: url(http://i.imgur.com/Fx5eYhk.png);
+    display: inline-block;
+    color: purple!important;
+}
