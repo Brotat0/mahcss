@@ -1,14 +1,36 @@
+@import url("https://github.netux.ml/css/fixesnetux.css");
+
+
+
+
+
+
+
+#chat .chat-container .chat-messages .chat-main li.user-580f434c9b89911a0009114e .username .user-role-icon,
+#main_avatar_room #main-user-list-room #avatar-list LI.user-580f434c9b89911a0009114e  .user-role-icon
+{
+    background-image: url(http://i.imgur.com/bzXHqR1.png);
+    display: inline-block;
+}
+
+#chat .chat-container .chat-messages .chat-main li.resident-dj .username .user-role-icon,
+#main_avatar_room #main-user-list-room #avatar-list LI.resident-dj  .user-role-icon
+{
+    background-image: url(http://i.imgur.com/bzXHqR1.png);
+    display: inline-block;
+}
+
 #chat .chat-container .chat-messages .chat-main li.vip .username .user-role-icon,
 #main_avatar_room #main-user-list-room #avatar-list LI.vip  .user-role-icon
 {
-    background-image: url(http://i.imgur.com/C90aIQk.png);
+    background-image: url(http://i.imgur.com/Jsl6Cjs.png);
     display: inline-block;
 }
 
 #chat .chat-container .chat-messages .chat-main li.mod .username .user-role-icon,
 #main_avatar_room #main-user-list-room #avatar-list LI.mod  .user-role-icon
 {
-    background-image: url(http://i.imgur.com/gbezlY0.png);
+    background-image: url(http://i.imgur.com/XTteBoQ.png);
     display: inline-block;
 }
 
@@ -26,9 +48,9 @@
     display: inline-block;
 }
 #chat .chat-container .chat-messages .chat-main li.creator .username .user-role-icon,
-#main_avatar_room #main-user-list-room #avatar-list LI.creator  .user-role-icon
+#main_avatar_room #main-user-list-room #avatar-list LI.crator  .user-role-icon
 {
-    background-image: url(http://i.imgur.com/Fp0Ysuk.png);
+    background-image: url(http://i.imgur.com/Fx5eYhk.png);
     display: inline-block;
 }
 
