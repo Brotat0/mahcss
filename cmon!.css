@@ -186,10 +186,42 @@
 	font-family: "Times New Roman", sans-serif!important;
 }
 
+
+
 #main_player .player_header span.skip-el {
    	float: right;
     	margin-right: 10px;
     	color: white;
 	background-color: red;
 	font-family: Helvetica;
+}
+
+
+
+#chat .chat-container .chat-messages .chat-main li .username:first-child:after
+{
+    margin-left: .25rem;    
+    transition-property: opacity;
+    opacity: 0;
+    font-size: smaller;
+    content: "pleb";
+}
+#chat .chat-container .chat-messages .chat-main li .username:hover:first-child:after
+{
+    transition-property: opacity;
+    opacity: 0.8;
+}
+
+#main_avatar_room #main-user-list-room #avatar-list li  .username:after 
+{
+    margin-left: .25rem;    
+    transition-property: opacity;
+    font-weight: normal;
+    opacity: 0.8;
+    content: "pleb";
+}
+#main_avatar_room #main-user-list-room #avatar-list li .username:hover:after
+{
+    transition-property: opacity;
+    opacity: 1;
 }
