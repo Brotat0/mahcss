@@ -167,17 +167,17 @@
 
 
 #chat .chat-container .chat-messages .chat-main li.creator .user-role {
-        color:#6a00ff;
+        color:#d20000;
 	font-family: "Times New Roman", sans-serif!important;
 }
 
 #main_avatar_room #main-user-list-room #avatar-list li.creator .username {
-	color: #6a00ff;
+	color: #d20000;
 	font-family: "Times New Roman", sans-serif!important;
 }
 
 #chat .chat-container .chat-messages .chat-main li.creator .username {
-	color: #6a00ff; 
+	color: #d20000; 
 	font-family: "Times New Roman", sans-serif!important
 }
 
