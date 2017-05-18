@@ -56,6 +56,26 @@
 
 
 
+#main_avatar_room #main-user-list-room #avatar-list li.dj .username {
+	color: #f9e457 !important;
+	font-family: "Times New Roman", sans-serif!important;
+}
+
+#chat .chat-container .chat-messages .chat-main li.dj .username {
+	color:  #f9e457;
+	font-family: "Times New Roman", sans-serif!important;
+}
+
+#chat .chat-container .chat-messages .chat-main li.dj .user-role {
+        color:#f9e457;
+	font-family: "Times New Roman", sans-serif!important;
+}
+
+#main_avatar_room #main-user-list-room #avatar-list li.dj .user-role {
+	color: #f9e457 !important;
+	font-family: "Times New Roman", sans-serif!important;
+}
+
 #main_avatar_room #main-user-list-room #avatar-list li.resident-dj .username {
 	color: #e2440b !important;
 	font-family: "Times New Roman", sans-serif!important;
