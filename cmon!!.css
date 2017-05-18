@@ -225,3 +225,31 @@
     transition-property: opacity;
     opacity: 1;
 }
+
+#chat .chat-container .chat-messages .chat-main li.dj .username:first-child:after
+{
+    margin-left: .25rem;    
+    transition-property: opacity;
+    opacity: 0;
+    font-size: smaller;
+    content: "member";
+}
+#chat .chat-container .chat-messages .chat-main li.dj .username:hover:first-child:after
+{
+    transition-property: opacity;
+    opacity: 0.8;
+}
+
+#main_avatar_room #main-user-list-room #avatar-list li.dj  .username:after 
+{
+    margin-left: .25rem;    
+    transition-property: opacity;
+    font-weight: normal;
+    opacity: 0.8;
+    content: "member";
+}
+#main_avatar_room #main-user-list-room #avatar-list li.dj .username:hover:after
+{
+    transition-property: opacity;
+    opacity: 1;
+}
