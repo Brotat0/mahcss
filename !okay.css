@@ -182,7 +182,7 @@
 }
 
 #main_avatar_room #chat-user-list-room #avatar-list li.creator .user-role{
-	color: #6a00ff;
+	color: #d20000;
 	font-family: "Times New Roman", sans-serif!important;
 }
 
@@ -198,29 +198,29 @@
 
 
 
-#chat .chat-container .chat-messages .chat-main li.dj .username:first-child:after
+#chat .chat-container .chat-messages .chat-main li.user-580f434c9b89911a0009114e .username:first-child:after
 {
     margin-left: .25rem;    
     transition-property: opacity;
     opacity: 0;
     font-size: smaller;
-    content: "member";
+    content: "ITSA ME";
 }
-#chat .chat-container .chat-messages .chat-main li.dj .username:hover:first-child:after
+#chat .chat-container .chat-messages .chat-main li.user-580f434c9b89911a0009114e .username:hover:first-child:after
 {
     transition-property: opacity;
     opacity: 0.8;
 }
 
-#main_avatar_room #main-user-list-room #avatar-list li.dj  .username:after 
+#main_avatar_room #main-user-list-room #avatar-list li.user-580f434c9b89911a0009114e  .username:after 
 {
     margin-left: .25rem;    
     transition-property: opacity;
     font-weight: normal;
     opacity: 0.8;
-    content: "member";
+    content: "ITSA ME";
 }
-#main_avatar_room #main-user-list-room #avatar-list li.dj .username:hover:after
+#main_avatar_room #main-user-list-room #avatar-list li.user-580f434c9b89911a0009114e .username:hover:after
 {
     transition-property: opacity;
     opacity: 1;
