@@ -52,11 +52,11 @@
 
 
 #main_player .play-song-link-container .play-song-link-browser {
-	margin-bottom: 80px;
+	margin-bottom: 10px;
 	background: none;
 	border-radius: 10px;
     	background: rgba(0,0,0,0);
-	padding: 6px 11px;
+/*	padding: 6px 11px; */
 	z-index: 1;
 }
 
