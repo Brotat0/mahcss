@@ -1,0 +1,69 @@
+#player-controller {
+    /*background: linear-gradient(to top, rgba(20,20,20,0.5) 0%, rgba(20,20,20,0.25) 60%, rgba(20,20,20,0) 100%);*/
+    background: rgba(15,15,15,0.42);
+}
+
+#player-controller .left {
+    /*background: linear-gradient(to top, rgba(20,20,20,0.5) 0%, rgba(20,20,20,0.30) 60%, rgba(20,20,20,0) 100%);*/
+    background: rgba(15,15,15,0.42);
+}
+
+}
+#player-controller .imgEl img {
+    border-radius: 2%;
+    margin: 5px;
+    max-width: 83%;
+}
+
+
+#player-controller .right ul li a.dubup:hover,
+#player-controller .right ul li a.dubup.voted,
+#player-controller .right ul li a.dubdown:hover,
+#player-controller .right ul li a.dubdown.voted,
+#player-controller .right ul li a.add-to-playlist-button.grabbed {
+    background: rgba(0,0,0,0);
+}
+#player-controller .right ul li a.dubup.voted span,
+#player-controller .right ul li a.dubup:hover:not(.voted) .icon-arrow-up {
+    color: #1725ed;
+}
+#player-controller .right ul li a,
+#player-controller .right ul li a.dubup:hover:not(.voted) span,
+#player-controller .right ul li a.dubup .icon-arrow-up,
+#player-controller .right ul li a.dubdown:hover:not(.voted) span,
+#player-controller .right ul li a.dubdown .icon-arrow-down,
+#player-controller .right ul li a.add-to-playlist-button.grabbed span,
+#player-controller .right ul li a.add-to-playlist-button:hover span,
+#player-controller .right ul li a span.icon-heart:before {
+    color: #ccc;
+}
+#player-controller .right ul li a.dubdown.voted span,
+#player-controller .right ul li a.dubdown:hover:not(.voted) .icon-arrow-down {
+    color: #d6062c;
+}
+#player-controller .right ul li a:hover span.icon-heart:before,
+#player-controller .right ul li a.add-to-playlist-button.grabbed span,
+#player-controller .right ul li a.add-to-playlist-button.grabbed .icon-heart:before {
+    color: #CC5A93;
+}
+#player-controller .right ul li .display-browser:hover .icon-playlist {
+    color: #5A93CC;
+}
+
+
+#main_player .play-song-link-container .play-song-link-browser {
+	margin-bottom: 86px;
+	background: none;
+	border-radius: 0;
+    background: #000000;
+	padding: 6px 11px;
+	z-index: 1;
+}
+
+#main_player .play-song-link-container .play-song-link {
+	border-radius: 0px;
+	background: #000000;
+	padding: 6px 32px;
+	z-index: 1;
+	display:none!important;
+}
