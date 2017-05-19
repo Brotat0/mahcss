@@ -10,7 +10,7 @@
 
 }
 #player-controller .imgEl img {
-    border-radius: 2%;
+    border-radius: 5px;
     margin: 5px;
     max-width: 83%;
 }
@@ -52,10 +52,10 @@
 
 
 #main_player .play-song-link-container .play-song-link-browser {
-	margin-bottom: 86px;
+	margin-bottom: 80px;
 	background: none;
-	border-radius: 0;
-    background: #000000;
+	border-radius: 10px;
+    	background: rgba(0,0,0,0);
 	padding: 6px 11px;
 	z-index: 1;
 }
