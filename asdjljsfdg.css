@@ -1,0 +1,48 @@
+#main_player {
+    background: rgba(15,15,15,0.66);
+    border-radius: 0 0 0.5rem 0.5rem;
+    border-top: 1px solid #878c8e;
+}
+#main_player .player_header {
+    background: inherit;
+    color: #ccc;
+    opacity: 1;
+    border-radius: 0.5rem 0.5rem 0 0;
+    padding-top: 12px;
+    top: -49px;
+}
+#main_player .player_header span {
+    background: rgba(0,0,0,0);
+    color: #aaa;
+    opacity: 1;
+    font-size: 15.2px;
+    font-size: .95rem;
+    line-height: .8;
+    border-radius: 0;
+}
+#main_player .player_header .active {
+    padding-bottom: 14px;
+}
+#main_player .player_header span:hover:not(.active) {
+    background: rgba(0,0,0,0);
+    color: #fff;
+}
+#main_player .player_header span.active {
+    background: rgba(0,0,0,0);
+    color: #fff;
+    opacity: 1;
+    border-bottom: 2px solid #fff;
+}
+#main_player .player_header span.edit-room i {
+    line-height: 0.95;
+    left: -0.5px;
+}
+#main_player .player_header span.skip-el {
+    margin-right: 0;
+}
+#main_player .player_header #topbanner {
+    margin-top: -6rem;
+}
+#main-room .left_section {
+    margin-top: 0rem;
+}
