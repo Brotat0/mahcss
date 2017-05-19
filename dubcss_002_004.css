@@ -25,7 +25,7 @@
 }
 #player-controller .right ul li a.dubup.voted span,
 #player-controller .right ul li a.dubup:hover:not(.voted) .icon-arrow-up {
-    color: #1725ed;
+    color: #ef8821;
 }
 #player-controller .right ul li a,
 #player-controller .right ul li a.dubup:hover:not(.voted) span,
