@@ -2,14 +2,10 @@
 	margin-bottom: 0px;
 	background: none;
 	border-radius: 10px;
-    	background: rgba(15,15,15,0.66);
+    	background: rgba(0,0,0,0.0);
 	z-index: 1;
 }
 
 #main_player .play-song-link-container .play-song-link {
-	border-radius: 0px;
-	background: #000000;
-	padding: 6px 32px;
-	z-index: 1;
 	display:none!important;
 }
