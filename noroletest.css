@@ -1,0 +1,7 @@
+#main_avatar_room #main-user-list-room #avatar-list li.creator .user-role,
+#main_avatar_room #main-user-list-room #avatar-list li.admin .user-role,
+#chat .chat-container .chat-messages .chat-main li .username .user-role,
+#main_avatar_room #main-user-list-room #avatar-list li .user-role 
+{
+    display: none;
+}
