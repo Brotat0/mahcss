@@ -4,3 +4,7 @@
     display: inline-block;
     margin-top: 1.6rem;
 }
+
+#main-room .left_section .main-player-wrapper {
+    left: 2rem;
+}
