@@ -1,6 +1,6 @@
 
 .header-center-logo a {
-    background: url'http://i.imgur.com/2vFptdE.png'!important;
+    background: url(http://i.imgur.com/2vFptdE.png)!important;
     width: 2.8rem !important;
     height: 3.2rem !important;
     margin-top: 3px !important;
