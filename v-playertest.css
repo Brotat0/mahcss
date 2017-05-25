@@ -1,4 +1,5 @@
 #main-room .left_section .main-player-wrapper {
     display: table-cell;
     vertical-align: top;
+    display: inline-block;
 }
