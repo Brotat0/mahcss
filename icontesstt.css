@@ -5,3 +5,12 @@
     height: 3.2rem !important;
     margin-top: 3px !important;
 }
+
+.header-center-logo img{
+    visibility: hidden
+}
+
+#jetman640stoolsdiv span{
+    left: 7px;
+    position: relative;
+}
