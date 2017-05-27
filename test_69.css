@@ -1,0 +1,32 @@
+.icon-menu:before {
+    content: "\e912";
+    color: #5de514;
+}
+#header-global .header-left-navigation a {
+    display: inline-block;
+    color: white;
+}
+#header-global .header-left-navigation:hover a {
+    display: inline-block;
+    color: #5de514;
+}
+.icon-chevron:before {
+    content: "\e800";
+    color: #5de514;
+}
+
+#chat .chat_tools span:hover {
+    float: left;
+    display: block;
+    padding: 12.8px 0;
+    padding: .8rem 0;
+    width: 33.33%;
+    border: 0;
+    outline: 0;
+    cursor: pointer;
+    text-align: center;
+    font-size: 24px;
+    font-size: 1.5rem;
+    color: #5de514;
+    position: relative;
+}
