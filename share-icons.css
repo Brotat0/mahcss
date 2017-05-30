@@ -1,0 +1,20 @@
+.icon-facebook:before:hover {
+    content: "\e80a";
+    color: #5de514;
+}
+
+.icon-twitter:before:hover {
+    content: "\e80b";
+    color: #5de514;
+}
+
+.icon-history:before:hover {
+    content: "\e815";
+    color: #5de514;
+}
+
+.icon-mute:before:hover {
+    content: "\e90c";
+    color: #5de514;
+}
+
