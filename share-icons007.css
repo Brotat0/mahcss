@@ -21,22 +21,22 @@
 */
 
 
-.icon-facebook: hover  {
+.icon-facebook: hover i {
     content: "\e80a";
     color: #5de514;
 }
 
-.icon-twitter: hover {
+.icon-twitter: hover i {
     content: "\e80b";
     color: #5de514;
 }
 
-.icon-history: hover {
+.icon-history: hover i {
     content: "\e815";
     color: #5de514;
 }
 
-.icon-mute: hover {
+.icon-mute: hover i {
     content: "\e90c";
     color: #5de514;
 }
