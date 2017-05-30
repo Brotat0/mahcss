@@ -1,0 +1,43 @@
+/*
+.icon-facebook:before: hover  {
+    content: "\e80a";
+    color: #5de514;
+}
+
+.icon-twitter:before: span: hover {
+    content: "\e80b";
+    color: #5de514;
+}
+
+.icon-history:before: span: hover {
+    content: "\e815";
+    color: #5de514;
+}
+
+.icon-mute:before: span: hover {
+    content: "\e90c";
+    color: #5de514;
+}
+*/
+
+
+.icon-facebook: hover  {
+    content: "\e80a";
+    color: #5de514;
+}
+
+.icon-twitter: hover {
+    content: "\e80b";
+    color: #5de514;
+}
+
+.icon-history: hover {
+    content: "\e815";
+    color: #5de514;
+}
+
+.icon-mute: hover {
+    content: "\e90c";
+    color: #5de514;
+}
+
