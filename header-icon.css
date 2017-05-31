@@ -1,0 +1,9 @@
+.header-center-logo a {
+    background: url(http://i.imgur.com/4Ju9nEj.png) !important;
+    width: 2.8rem !important;
+    height: 3.2rem !important;
+    margin-top: 3px !important;
+}
+.header-center-logo img{
+    visibility: hidden
+}
